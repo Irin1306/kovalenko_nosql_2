@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+arxiv.zip
+arxiv-metadata-oai-snapshot.json
+data/
+embeddings/
+# .DS_Store
+.vscode
+.ipynb_checkpoints/
